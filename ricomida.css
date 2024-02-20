@@ -1,0 +1,55 @@
+.logo {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    margin-left: 50px;
+}
+
+#prin {
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-bottom: 30px;
+}
+
+.treceta {
+    margin-top: 30px;
+    margin-left: 95px;
+    font-size: clamp(.8em, 5vw, 1.8em);
+    text-align: justify;
+
+}
+
+#indicacion{
+    margin-top: 10px;
+    margin-left: 95px;
+    font-size: calc(1.2vw, .9em);
+    text-align: justify;
+    
+}
+
+#enviarCorreo{
+    border: 1px solid black;
+
+}
+#favoritos{
+    border: 1px solid black;
+
+}
+
+.botones{
+    margin-left: 95px;
+    margin-bottom: 20px;
+    font-family: "Cabin", sans-serif;
+    
+}
+
+.texto2{
+    font-family: "Cabin", sans-serif;
+    
+    
+}
+
+.p{
+    text-align: left;
+}
